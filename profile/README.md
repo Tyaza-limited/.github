@@ -1,6 +1,6 @@
 # HoneyByte
 
-![HoneyByte Logo](url-to-your-logo.png)
+![HoneyByte Logo](https://github.com/Honeybyte/.github/blob/main/profile/logo.svg)
 
 Welcome to HoneyByte, where we are dedicated to helping Rwanda students learn programming and web development! Our mission is to foster a supportive and inclusive community that empowers learners to grow their skills and pursue fulfilling careers in technology.
 
