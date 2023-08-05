@@ -15,7 +15,7 @@ At HoneyByte, we believe in the power of education and technology to transform l
 - Foster a collaborative and supportive environment for learners to connect and grow.
 - Empower students to become proficient in full-stack web development.
 - Encourage open-source contributions to real-world projects.
-
+<!--
 ## How to Get Started
 
 If you're new to programming or web development, don't worry! We welcome learners of all skill levels. To get started with HoneyByte:
@@ -55,3 +55,4 @@ If you have any questions, suggestions, or ideas, feel free to reach out to us:
 We look forward to having you as a part of the HoneyByte community! Let's code and learn together to create a brighter future for Rwanda's tech industry.
 
 Happy coding!
+-->
