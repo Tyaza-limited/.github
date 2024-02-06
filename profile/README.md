@@ -1,24 +1,30 @@
-Welcome to byethics, where we are dedicated to helping Rwanda students learn programming and web development! Our mission is to foster a supportive and inclusive community that empowers learners to grow their skills and pursue fulfilling careers in technology.
+# About us
+We are a community of IT students from IPRC Ngoma who are student of knowledge and willing of learn from everybody.
 
-## About Us
+## Our goals
+- learning programming and IT related studies.
+- contributing to our community member success in learning.
+- Building functional real world project to gain experience and practical knowledge in IT field.
+- Creating work simulation for IT related jobs.
+- Encouraging creatity and learning.
 
-At byethics, we believe in the power of education and technology to transform lives. We are a group of passionate programmers, web developers, and educators committed to sharing our knowledge and expertise with aspiring learners in Rwanda.
+# community guidelines
+- Be Kind and Respectful: Treat others with kindness and respect. Avoid personal attacks, offensive language, or any form of harassment.
 
-## Our Objectives
+- Encourage Learning: FreeCodeCamp is a learning community. Encourage others to learn and share your knowledge constructively.
 
-- Provide accessible and high-quality learning resources for beginners to advanced learners.
-- Organize workshops, webinars, and coding challenges to enhance practical skills.
-- Foster a collaborative and supportive environment for learners to connect and grow.
-- Empower students to become proficient in full-stack web development.
-- Encourage open-source contributions to real-world projects.
+- No Spam or Self-Promotion: Avoid spamming the community with irrelevant content or excessive self-promotion. Share content that adds value to the community.
 
-## Get Involved
+- Stay On Topic: Keep discussions and contributions relevant to coding, programming, and related topics.
 
-Byethics is a community-driven organization, and we welcome contributors and volunteers to help us achieve our mission. Whether you're an experienced developer or a passionate educator, there are many ways to get involved:
+- Provide Constructive Feedback: If you're providing feedback, make it constructive and helpful. Focus on the content or code rather than criticizing the person.
 
-- **Contribute:** Help improve our learning materials or contribute to our open-source projects.
-- **Mentor:** Guide and mentor learners in their programming journey.
-- **Host Events:** Organize workshops, webinars, or coding bootcamps.
-- **Spread the Word:** Share byethics with your friends, peers, and on social media.
+- Respect Diversity: Embrace and respect diversity. FreeCodeCamp's community includes people from various backgrounds and experiences.
 
-Happy coding!
+- Use Clear and Concise Language: When communicating, use clear and concise language to avoid misunderstandings.
+
+- No Cheating or Plagiarism: Uphold ethical standards in learning. Do not engage in cheating or plagiarism.
+  
+# responsiblity of a member
+- Performing atleast 75% at every tasks assigned to him/her.
+- Pro-active communication.
